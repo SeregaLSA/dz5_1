@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block {
+    width: 200px;
+    height: 200px;
+    border: 20px solid;
+    border-color: red green blue yellow;
+    margin: 60px;
+}
+.block-1 {
+    width: 160px;
+    height: 160px;
+    border: 20px solid;
+    border-color: yellow red green blue;
+}
+.block-2 {
+    width: 120px;
+    height: 120px;
+    border: 20px solid;
+    border-color: blue yellow red green ;
+}
+.block-3 {
+    width: 80px;
+    height: 80px;
+    border: 20px solid;
+    border-color: green blue yellow red ;
+}
+.block-4 {
+    width: 40px;
+    height: 40px;
+    border: 20px solid;
+    border-color: red green blue yellow;
+}
+
+.button {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 16px 32px;
+    font-size: 24px;
+}
+.btn__1 {
+    background-color: green;
+    margin-left: 60px;
+    border-radius: 3px;
+    color: black;
+}
+.btn__2 {
+    background-color: red;
+    margin-left: 20px;
+    border-radius: 3px;
+    color: white;
+}
+.btn__3 {
+    background-color: black;
+    margin-left: 20px;
+    border-radius: 3px;
+    color: white;
+}
+.btn__4 {
+    margin-left: 20px;
+    border-radius: 3px;
+    color: black;
+}
+
+.block__1 {
+    width: 400px;
+    height: 400px;
+    margin: 60px;
+}
+.block__1-1 {
+    width: 50%;
+    height: 50%;
+    background-color: red;
+    float: left;
+}
+
+.block__1-2 {
+    width: 50%;
+    height: 50%;
+    background-color: green;
+    float: left;
+}
+.block__1-3 {
+    width: 100%;
+    height: 50%;
+    background-color: blue;
+    float: left;
+}
+.block__2 {
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+}
+.block__2-1 {
+    width: 50%;
+    height: 50%;
+    background-color: red;
+    float: left;
+}
+
+.block__2-2 {
+    width: 50%;
+    height: 50%;
+    background-color: green;
+    float: left;
+}
+.block__2-3 {
+    width: 100%;
+    height: 50%;
+    background-color: rgb(78, 78, 153);
+    float: left;
+}
+
+.fir {
+    width: 800px;
+    height: 800px;
+    background-color: crimson;
+    margin: 60px;
+    padding-top: 100px;
+}
+.fir-1 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: auto;
+}
+.fir-2 {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    margin: auto;
+}
+.fir-3 {
+    width: 300px;
+    height: 100px;
+    background-color: green;
+    margin: auto;
+}
+.fir-4 {
+    width: 400px;
+    height: 100px;
+    background-color: green;
+    margin: auto;
+}
+.fir-5 {
+    width: 500px;
+    height: 100px;
+    background-color: green;
+    margin: auto;
+}
+.fir-6 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(107, 34, 34);
+    margin: auto;
+}
